@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoDalto&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoDalto&repo=github-readme-stats)](https://github.com/ThiagoDalto/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoDalto&repo=github-readme-stats&theme=radical)](https://github.com/ThiagoDalto/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDalto)](https://github.com/ThiagoDalto/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoDalto)](https://github.com/ThiagoDalto/github-readme-stats)
 <a href="https://github.com/ThiagoDalto/github-readme-stats">
