@@ -26,13 +26,6 @@ Here are some ideas to get you started:
 
 
 
-
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoDalto)](https://github.com/ThiagoDalto/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoDalto&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoDalto&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoDalto&repo=github-readme-stats)](https://github.com/ThiagoDalto/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDalto)](https://github.com/ThiagoDalto/github-readme-stats)
