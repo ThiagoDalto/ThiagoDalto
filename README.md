@@ -29,6 +29,9 @@ Here are some ideas to get you started:
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoDalto&show_icons=true&theme=merko&hide_border=true)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDalto&theme=merko&hide_border=true)
+ 
+ ![Snake animation](https://github.com/ThiagoDalto/ThiagoDalto/blob/output/github-contribution-grid-snake.svg)
+
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thiagodalto)](https://github.com/ThiagoDalto/github-readme-stats) -->
 <!-- <a href="https://github.com/ThiagoDalto/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoDalto&repo=github-readme-stats" />
